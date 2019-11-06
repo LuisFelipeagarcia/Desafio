@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\11_04_Desafio\bin\Debug\netcoreapp2.2\11_04_Desafio.deps.json
+C:\Users\User\source\repos\11_04_Desafio\bin\Debug\netcoreapp2.2\11_04_Desafio.runtimeconfig.json
+C:\Users\User\source\repos\11_04_Desafio\bin\Debug\netcoreapp2.2\11_04_Desafio.runtimeconfig.dev.json
+C:\Users\User\source\repos\11_04_Desafio\bin\Debug\netcoreapp2.2\11_04_Desafio.dll
+C:\Users\User\source\repos\11_04_Desafio\bin\Debug\netcoreapp2.2\11_04_Desafio.pdb
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.AssemblyInfo.cs
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.dll
+C:\Users\User\source\repos\11_04_Desafio\obj\Debug\netcoreapp2.2\11_04_Desafio.pdb
